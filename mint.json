@@ -36,7 +36,9 @@
   "navigation": [
     {
       "group": "GET STARTED",
-      "pages": ["api-reference/getstarted"]
+      "pages": [
+        "api-reference/getstarted"
+      ]
     },
     {
       "group": "Authentication",
@@ -98,12 +100,12 @@
         "api-reference/ca/get",
         "api-reference/ca/delete",
         "api-reference/ca/update"
-       
       ]
     }
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/jameskell",
     "linkedin": "https://www.linkedin.com/in/jameskell/"
-  }
+  },
+  "feedback.thumbsRating": true
 }
