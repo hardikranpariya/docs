@@ -36,7 +36,9 @@
   "navigation": [
     {
       "group": "GET STARTED",
-      "pages": ["api-reference/getstarted"]
+      "pages": [
+        "api-reference/getstarted"
+      ]
     },
     {
       "group": "Authentication",
@@ -98,7 +100,6 @@
         "api-reference/ca/get",
         "api-reference/ca/delete",
         "api-reference/ca/update"
-       
       ]
     }
   ],
