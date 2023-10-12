@@ -105,5 +105,6 @@
   "footerSocials": {
     "twitter": "https://twitter.com/jameskell",
     "linkedin": "https://www.linkedin.com/in/jameskell/"
-  }
+  },
+  "feedback.thumbsRating": true
 }
